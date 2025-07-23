@@ -23,7 +23,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
   font-style: normal;
   font-weight: normal;
@@ -46,3 +46,5 @@
 .flaticon-rgb:before { content: "\f107"; }
 .flaticon-circuit-board:before { content: "\f108"; }
 .flaticon-bomberman:before { content: "\f109"; }
+.flaticon-coding:before { content: "\f1"; }
+.flaticon-web-design:before { content: "\f10b"; }
